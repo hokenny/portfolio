@@ -62,7 +62,7 @@ input:hover, textarea:hover {
 }
 
 input:focus, textarea:focus {
-  border-color: #f06449;
+  border-color: #dfd0cd;
 }
 
 .container {
@@ -600,6 +600,7 @@ footer {
   margin: 28px 0;
 }
 
+.footer__logo,
 .footer__social--link,
 .footer__copyright {
   color: white;
